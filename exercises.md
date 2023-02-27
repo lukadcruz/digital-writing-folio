@@ -7,6 +7,7 @@
 - [x] Add a repository for the folio
 - [x] What types of writing do you do (ie fiction, nonfiction, poetry, other)?
 - [x] What tools (or techniques) do you use to writer?
+- [x] Why do you use these tools (or techniques)?
 - [x] How do these tools shape the way you write (e.g., constrain the way you write or facilitate your writing)?
 
 
