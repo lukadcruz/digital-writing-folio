@@ -29,3 +29,34 @@
 ### How do these tools shape the way you write (e.g., constrain the way you write or facilitate your writing)?
 
 - While I am most comfortable in the current patterns that I follow, I believe that my writing can at times be constrained by my adhereance to rigid form. It is effective in facilitating my writing to bring focus to the words, however I believe experimenting with different tools could enable me to actualise my writing to better effect. My environment may also constrain the way I write, as during commutes I am often writing under loose time restrictions, though it can sometimes be beneficial to write with an external pressure. I could use more audiovisual content as research, as well as accessing books and other library resources to further solidify the breadth of my research. 
+
+## Week 2
+
+- [] What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
+- [] How are those elements meaningful?
+- [] How are the works read differently from print literature?
+- [] How is electronic literature different from print literature?
+- [] What are the qualities of the works we might consider as qualities of electronic literature?
+
+### What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
+
+- 
+
+### How are those elements meaningful?
+
+-
+
+### How are the works read differently from print literature?
+
+-
+
+### How is electronic literature different from print literature?
+
+-
+
+### What are the qualities of the works we might consider as qualities of electronic literature?
+
+-
+
+
+
