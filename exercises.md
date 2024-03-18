@@ -35,11 +35,6 @@ Defining Electronic Literature
 
 Edit the exercises.md page in your digital writing folio and add the following questions with your answers to the questions:
 
-   Week 3
-Defining Electronic Literature
-
-Edit the exercises.md page in your digital writing folio and add the following questions with your answers to the questions:
-
 - What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
 - How are those elements meaningful?
 - How are the works read differently from print literature?
