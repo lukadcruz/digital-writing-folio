@@ -37,7 +37,7 @@ Edit the `exercises.md` page in your digital writing folio and add the following
 
 - What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
 
-  Taroko Gorge:
+  ## Taroko Gorge:
   The physical structure of the poem (the formatting of the lines give guidance to the way in which the poem is read)
   The words themselves create meaning but also the presentation of the words; because the poem is generative, the words flow downwards on screen as more lines are added, thus mimicking the river flow in which the words often relate to. Looking at remixes of the work we can see that the downward flow of words has a different effect if the words themselves are changed. The remix 'Gorge' evokes notions of digestion as the words themselves force us to reconsider what the particular feeling the presentation evokes.
 
