@@ -36,7 +36,11 @@ Defining Electronic Literature
 Edit the `exercises.md` page in your digital writing folio and add the following questions with your answers to the questions:
 
 - What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
-
+- How are those elements meaningful?
+- How are the works read differently from print literature?
+- How is electronic literature different from print literature?
+- What are the qualities of the works we might consider as qualities of electronic literature?
+  
   ## Taroko Gorge:
   The physical structure of the poem (the formatting of the lines give guidance to the way in which the poem is read)
   The words themselves create meaning but also the presentation of the words; because the poem is generative, the words flow downwards on screen as more lines are added, thus mimicking the river flow in which the words often relate to. Looking at remixes of the work we can see that the downward flow of words has a different effect if the words themselves are changed. The remix 'Gorge' evokes notions of digestion as the words themselves force us to reconsider what the particular feeling the presentation evokes.
@@ -44,10 +48,7 @@ Edit the `exercises.md` page in your digital writing folio and add the following
   ## The Gathering Cloud:
   The Gathering Cloud features highlighted words that when hovered over expand to reveal more text. It is in this way that we understand the red highlighted text to be read. The presentation of the page also features elements that are read intrinsically to the form; the array of text orients the reader to different areas of the screen and compels the reader to consider the text in relation to the supplied images. The author also uses animation and image movement to direct the readers eye, often mimicking the evocation of the text (the scale of the elephant images growing with urgency as the text describes the scale of clouds growing with urgency). The relationship between image and word works towards defining the overall metaphor of a progression of the cloud. The images often have a disregard for overlapping the words or for remaining in the borders which also further strengthens what the author is communicating in terms of scale.
 
-- How are those elements meaningful?
-- How are the works read differently from print literature?
-- How is electronic literature different from print literature?
-- What are the qualities of the works we might consider as qualities of electronic literature?
+
 
 
 
