@@ -52,6 +52,9 @@ Edit the `exercises.md` page in your digital writing folio and add the following
   
 
 - How is electronic literature different from print literature?
+Electronic Literature allows for a more urgent sense of interactivity than print literature as well as opportunity to introduce more multi-disciplinary elements than possible with print. This could be typified by (including but not limited to) use of animation, generative text, user response/feedback or choice, which can be achieved in print literature (ie Choose your Own Adventure book) but not with the same pace of urgency as through electronic means. In this sense electronic literature can force the reader to implicate themselves in the works they are engaging with if there are choices that exercise their agency or complicity, or give them to power to change the course of the narrative itself.
+
+
 - What are the qualities of the works we might consider as qualities of electronic literature?
 
 
