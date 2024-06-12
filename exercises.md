@@ -58,7 +58,15 @@ Edit the `exercises.md` page in your digital writing folio and add the following
 
 ## What are the qualities of the works we might consider as qualities of electronic literature?
 
-   Animation, generative text, user response/feedback, choice, user agency or complicity, pacing dictated by the work rather than the reader, work as a discursive construction rather than a fixed set of circumstances, multimedia elements, interactivity
+   Animation, generative text, user response/feedback, choice, user agency or complicity, pacing dictated by the work rather than the reader, work as a discursive construction rather than a fixed set of circumstances, multimedia elements, and interactivity.
+
+
+## DIGITAL EXPERIMENTS
+https://github.com/lukadcruz/twine-experiment-the-house
+https://github.com/lukadcruz/bitsy-experiment-2024
+https://github.com/lukadcruz/n-7-remix-2024
+https://github.com/lukadcruz/to-make-a-dadaist-poem-remix-2024
+
 
 
 
